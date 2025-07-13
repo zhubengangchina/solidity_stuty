@@ -1,0 +1,15 @@
+{
+  "name": "mynft",
+  "description": "This is my first NFT created with IPFS and Ethereum!",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeif7bf76agm7lsticn4qygygo3vzjd5xbouhvy6frbgpsyrhwwpvwy",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "You"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
